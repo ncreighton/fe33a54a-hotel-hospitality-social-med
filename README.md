@@ -1,2 +1,25 @@
-# fe33a54a-hotel-hospitality-social-med
-The hotel management tool you'd build yourself — if you had the time.  Ready to use immediately — open, fill in your details, done. Professional formatting tested across different screen sizes and printers.  ## What's Included  - Hotel &amp; Hospitality Social Media Content Template — fully configured and ready to use - Fully editable: all fields, colo
+# Hotel & Hospitality Social Media Content Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe00jh1BbUE5tu0VecZy1f)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe00jh1BbUE5tu0VecZy1f)
+
